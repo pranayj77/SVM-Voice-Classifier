@@ -1,0 +1,6 @@
+clc;clear;close all;
+load('exampledata.mat');
+%% Raster plots
+%targ
+
+plot(exampledata(i).targspike(2,:));
